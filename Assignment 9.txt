@@ -1,0 +1,10 @@
+Que.
+
+Consider following datasets , do PCA on each datasets and preapare any three classification models.
+
+Datasets:
+wine.csv
+framingham.csv
+claimants.csv
+glass.csv
+churn.csv

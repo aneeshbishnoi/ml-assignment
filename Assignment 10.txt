@@ -1,0 +1,25 @@
+Problem Statement: Analyzing and Predicting Employee Absenteeism
+You are provided with a dataset containing records of Employee absenteeism. The dataset includes various attributes such as the reason for absence, transportation
+expenses, distance to work, age, daily workload, body mass index (BMI), education level, number of children, number of pets, and the number of hours absent. Your
+task is to analyze this data, derive insights, and build a predictive model to forecast absenteeism hours based on the given features.
+
+Objectives:
+1. Data Analysis and Visualization:
+Perform exploratory data analysis (EDA) to understand the distribution of the data.
+Identify any correlations between the features and absenteeism hours.
+Visualize the data using Tableau to create insightful dashboards.
+
+2. Data Preprocessing:
+Handle missing values, if any.
+Encode categorical variables appropriately.
+Normalize or standardize the data if necessary.
+
+3. Statistical Analysis:
+Conduct hypothesis testing to determine if certain factors significantly affect absenteeism.
+Perform regression analysis to understand the relationship between independent variables and absenteeism hours.
+
+4. Machine Learning Model Building:
+Split the data into training and testing sets.
+Build and evaluate multiple regression models (e.g., Linear Regression, Decision Tree, Random Forest) to predict absenteeism hours.
+Use cross-validation to ensure the robustness of your models.
+Compare the performance of different models using appropriate metrics (e.g., RMSE, MAE, R²).

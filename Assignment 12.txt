@@ -1,0 +1,3 @@
+Create ARIMA Model on following datasets.
+A. airline-passengers.csv
+B. daily-minimum-temperature.csv

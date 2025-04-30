@@ -1,0 +1,3 @@
+Que 
+Predict the energy_production for energy_production.csv data.
+for importing dataset use df=pd.read_csv(".csv file",sep=';'). 

@@ -1,0 +1,17 @@
+Que. 1
+
+Consider following datasets , do proper EDA (i.e. Scaling, Resampling (if needed), Outlier Handling) on each datasets 
+and preapare any three classification models & select best one of them.
+
+Datasets:
+wine.csv
+framingham.csv
+claimants.csv
+glass.csv
+churn.csv
+
+Que. 2
+
+Prepare association rules using apriori for the following  data sets 
+1. book.csv
+2. movies.csv
